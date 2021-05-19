@@ -26,3 +26,5 @@ int main(void)
  printf("%s\n", my_strcpy(p1, "Hello, World !!!"));
  return 0;
 }
+
+printf "check stash git cmd for git "

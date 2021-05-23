@@ -1,4 +1,4 @@
-Ti check again pgain agian last atch format 
+check baranch opton  
 #include <stdio.h>
 size_t my_strlen(const char *s)
 {

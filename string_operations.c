@@ -1,4 +1,5 @@
-check baranch opton  
+check baranch opton
+Iam good
 #include <stdio.h>
 size_t my_strlen(const char *s)
 {

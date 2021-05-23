@@ -1,5 +1,5 @@
 check baranch opton  
-checked by usera and itis refeclting
+Iam good
 #include <stdio.h>
 size_t my_strlen(const char *s)
 {
